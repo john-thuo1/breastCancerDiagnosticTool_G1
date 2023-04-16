@@ -9,4 +9,4 @@ The repository contains code implementation of a Breast Cancer Diagnostic Tool t
 3. Connected the github public repository to streamlit cloud
 4. Deployed the app.
 
-Link to the Live Project : [breast-cancer-tool](https://johnthuo1-breast-cancer-tool-streamapp-647vh4.streamlit.app/)
+  **Live Project : [breast-cancer-tool.com](https://johnthuo1-breast-cancer-tool-streamapp-647vh4.streamlit.app/)
