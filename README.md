@@ -6,8 +6,8 @@ The repository contains code implementation of a Breast Cancer Diagnostic Tool t
 1.Clone the stream App codes on the repository onto your device. You can use Visual Studio Code or any ide of your choice that supports python language. <br/>
 2.Push the stream App codes to a github repository; in our case - [repository](https://github.com/johnthuo1/breast-cancer-tool). <br/>
 3. Set up an account on streamlit Community Cloud <br/>
-4. Connected the github public repository to streamlit cloud <br/>
-5. Deployed the app.
+4. Connect the github public repository to streamlit cloud <br/>
+5. Deploy the app.
 
   **Live Project : [breast-cancer-tool.com](https://johnthuo1-breast-cancer-tool-streamapp-647vh4.streamlit.app/)**
   
