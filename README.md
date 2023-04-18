@@ -1,5 +1,5 @@
 # **BreastCancerDiagnosticTool_G1**
-The repository contains code implementation of a Breast Cancer Diagnostic Tool that determines whether a given Patient's Mammogram Image is Benign or Malignant. VGG16 model, which is 16 layers deep was used.
+The repository contains code implementation of a Breast Cancer Diagnostic Tool that determines whether a given Patient's Mammogram Image is Benign or Malignant. VGG16 model (A pre-trained model), which is 16 layers deep was used. After the training and testing, our model predicts outcomes with 96% accuracy
 
 
 # **Hosting on streamlit Community Cloud**
