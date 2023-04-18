@@ -3,14 +3,10 @@ The repository contains code implementation of a Breast Cancer Diagnostic Tool t
 
 
 # **Hosting on streamlit Community Cloud**
-1.Clone the stream App codes on the repository onto your device. You can use Visual Studio Code or any ide of your choice that supports python language.
-
-2.Push the stream App codes to a github repository; in our case - [repository](https://github.com/johnthuo1/breast-cancer-tool).
-
-3. Set up an account on streamlit Community Cloud
-
-4. Connected the github public repository to streamlit cloud
-
+1.Clone the stream App codes on the repository onto your device. You can use Visual Studio Code or any ide of your choice that supports python language. <br/>
+2.Push the stream App codes to a github repository; in our case - [repository](https://github.com/johnthuo1/breast-cancer-tool). <br/>
+3. Set up an account on streamlit Community Cloud <br/>
+4. Connected the github public repository to streamlit cloud <br/>
 5. Deployed the app.
 
   **Live Project : [breast-cancer-tool.com](https://johnthuo1-breast-cancer-tool-streamapp-647vh4.streamlit.app/)**
@@ -20,12 +16,9 @@ The repository contains code implementation of a Breast Cancer Diagnostic Tool t
 2. The data was small. The more the data used, the more efficient the model will be in predicting accurately. Hence our small train data also affected the accuracy of our model.
   
   # **Next Steps (Points of Improvement):**
-1.More data, will be needed to improve the model's performance. 
-
-2.Training the data with equal number of benign and malignant images will reduce bias. 
-
-3. A new model that caters for images unrelated to cancer will be needed to test the model's efficiency in identifying cancer-related images 
-
-4. We can also employ multi-class classification instead of binary to cater for a broader scope.
+1.More data, will be needed to improve the model's performance. <br/>
+2.Training the data with equal number of benign and malignant images will reduce bias. <br/>
+3. A new model that caters for images unrelated to cancer will be needed to test the model's efficiency in identifying cancer-related images. <br/>
+4. We can also employ multi-class classification instead of binary to cater for a broader scope. <br/>
   
  
