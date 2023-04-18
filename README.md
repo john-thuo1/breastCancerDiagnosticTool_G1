@@ -9,7 +9,12 @@ The repository contains code implementation of a Breast Cancer Diagnostic Tool t
 4. Connect the github public repository to streamlit cloud <br/>
 5. Deploy the app.
 
-  **Live Project : [breast-cancer-tool.com](https://johnthuo1-breast-cancer-tool-streamapp-647vh4.streamlit.app/)**
+  **Live Project : [breast-cancer-tool.com](https://johnthuo1-breast-cancer-tool-streamapp-647vh4.streamlit.app/)** <br/>
+  
+  Below is the link to the video demonstrating how our model is functioning. <br/>
+  **Video Recording  : [Breast Cancer Stream Application](https://drive.google.com/file/d/1cFkoyH9E7xPU04uXSAb08uhgt54ZSw9Z/view?usp=share_link)** 
+
+  
   
   # **Limitations of the Project:**
 1. The model was trained using more Benign cases than malignant. Hence on rare occasions, its predictions may be skewed towards benign. The reason why it is not 100% accurate.
