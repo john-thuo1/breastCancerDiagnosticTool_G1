@@ -17,7 +17,10 @@ The repository contains code implementation of a Breast Cancer Diagnostic Tool t
   
   # **Next Steps (Points of Improvement):**
 1.More data, will be needed to improve the model's performance.
+
 2.Training the data with equal number of benign and malignant images will reduce bias.
+
 3. A new model that caters for images unrelated to cancer will be needed to test the model's efficiency in identifying cancer-related images
-4. We can also employ multi-class classification instead of binary to cater for a broader scope.
+
+5. We can also employ multi-class classification instead of binary to cater for a broader scope.
  
